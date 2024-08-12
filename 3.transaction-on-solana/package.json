@@ -1,5 +1,5 @@
 {
-  "name": "1.generate-key-pair",
+  "name": "3.transaction-on-solana",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@solana-developers/helpers": "^2.4.0",
     "@solana/web3.js": "^1.95.2",
     "bs58": "^6.0.0",
     "esrun": "^3.2.26",

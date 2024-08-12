@@ -1,0 +1,4 @@
+suppliedToPubkey: 65Ajo85uer5Unda5TyCEosce4tWq6DDAH9iUw7FnuUn9
+✅ Loaded our own keypair, the destination public key, and connected to Solana
+💸 Finished! Sent 500000000 to the address 65Ajo85uer5Unda5TyCEosce4tWq6DDAH9iUw7FnuUn9. 
+Transaction signature is 5zwsn75E9Z26NrdH54tQ8vMb3xg2gjR7ReXSQeU2sg7LsoxQAT8BhV4fYgGRhGg4e7rMYKBKpucaX7pchZWSEAqi!
