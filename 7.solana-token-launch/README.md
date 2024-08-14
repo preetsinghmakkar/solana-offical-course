@@ -21,7 +21,7 @@ To get started with your project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/preetsinghmakkar/solana-official-course
    cd solana-token-launch
    ```
 
