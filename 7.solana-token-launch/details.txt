@@ -1,0 +1,16 @@
+/////// MINT TOKEN ADDRESS
+🔑 Loaded our keypair securely, using an env file! Our public key is: BB32eiKY1X6TgQ3Bzj9CTWb5gRiShNExyscrERL4QBqU
+✅ Finished! Created token mint: https://explorer.solana.com/address/4FXFTdCWWyFWErxs8pGxAiRVEy942RbrSLtou29ehw4R?cluster=devnet
+
+/////// TOKEN ACCOUNT
+🔑 Loaded our keypair securely, using an env file! Our public key is: BB32eiKY1X6TgQ3Bzj9CTWb5gRiShNExyscrERL4QBqU
+Token Account: Cw38EkNSRwV4axT8bcTWr4mfNApHA2QLdELTwuKrSTyz
+✅ Created token Account: https://explorer.solana.com/address/Cw38EkNSRwV4axT8bcTWr4mfNApHA2QLdELTwuKrSTyz?cluster=devnet
+
+/////// TOKEN MINTED TRANSACTION 
+✅ Success! Mint Token Transaction: https://explorer.solana.com/tx/3zZ8LoZ9pv7n78geDTciUsp2ADHyDbipzXoyH6JVtvpJV4MrfMMhiVn5z7eBYzYArh1sg4VmYF8TRrbdYVzD1PTf?cluster=devnet
+
+/////// TRANSFER TOKENS TO ANOTHER Account
+🔑 Loaded our keypair securely, using an env file! Our public key is: BB32eiKY1X6TgQ3Bzj9CTWb5gRiShNExyscrERL4QBqU
+💸 Attempting to send 4 token to 58KP8zx3yTLwa7tvT2dJdiG7n7uQKgTGDvhr3fV21z8a...
+✅ Transaction confirmed, explorer link is: https://explorer.solana.com/tx/2rauVez2GpUKVnfPX27EHAAVipsbwoWoRHHJxire2P1xcMon2UzNEKSdqbcvgbcGRrBJ6icYZdYZ8LYFcWMF7XMv?cluster=devnet!
